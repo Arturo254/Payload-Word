@@ -11,4 +11,13 @@ cd Payload-Word
 
 chmod 777 *
 
-python3 PayWord.py
+python3 payword.py 
+```
+
+# Uso 
+
+``` 
+python3 payword.py --interface wlan0 --port 8080 
+```
+
+
